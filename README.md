@@ -124,23 +124,23 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ---
 
 ## 🗺️ Roadmap (High‑Level)
-[ ] Basic hardware detection
+- [ ] Basic hardware detection
 
-[ ] Local model loading
+- [ ] Local model loading
 
-[ ] Cloud model adapters
+- [ ] Cloud model adapters
 
-[ ] Routing engine MVP
+- [ ] Routing engine MVP
 
-[ ] Automatic model upgrades
+- [ ] Automatic model upgrades
 
-[ ] Unified API
+- [ ] Unified API
 
-[ ] Plugin system
+- [ ] Plugin system
 
-[ ] Cross‑platform packaging
+- [ ] Cross‑platform packaging
 
-[ ] v1.0 release
+- [ ] v1.0 release
 
 ---
 
