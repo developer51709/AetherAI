@@ -184,28 +184,28 @@ Contributors can add new backends by implementing a simple interface and registe
 Here’s how a typical request moves through AetherAI:
 
 1. **User calls the API**
-  → ai.generate("Explain quantum computing")
+   - → ai.generate("Explain quantum computing")
 
 2. Routing engine evaluates environment
 
-  - Hardware detector reports capabilities
+   - Hardware detector reports capabilities
 
-  - Connectivity monitor reports network status
+   - Connectivity monitor reports network status
 
-  - Model manager lists available models
+   - Model manager lists available models
 
 3. **Routing engine selects the best backend**
 
-- Local model if powerful enough
+   - Local model if powerful enough
 
-- Cloud model if online and allowed
+   - Cloud model if online and allowed
 
-- Fallback model if resources are limited
+   - Fallback model if resources are limited
 
 4. **Backend executes the request**
 
-- Local inference or cloud API call
+   - Local inference or cloud API call
 
 5. **Response is returned to the user**
 
-- Unified format, regardless of backend
+   - Unified format, regardless of backend
