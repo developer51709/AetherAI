@@ -209,3 +209,46 @@ Here’s how a typical request moves through AetherAI:
 5. **Response is returned to the user**
 
    - Unified format, regardless of backend
+
+---
+
+## 🧩 Extensibility
+AetherAI is built to grow.
+Future extensions may include:
+
+- New model formats
+
+- New cloud providers
+
+- Custom routing strategies
+
+- Plugin‑based tools
+
+- Distributed inference
+
+- Mobile runtimes
+
+The architecture is intentionally modular to support community innovation.
+
+---
+
+## 🗺️ Next Steps
+To dive deeper into the system:
+
+- Hardware Detection → `components/hardware.md`
+
+- Connectivity Monitoring → `components/connectivity.md`
+
+- Model Manager → `components/model-manager.md`
+
+- Routing Engine → `components/routing-engine.md`
+
+- Unified API → `components/api.md`
+
+For backend details:
+
+- Local Models → `backends/local-models.md`
+
+- Cloud Models → `backends/cloud-models.md`
+
+- Adding Backends → `backends/adding-backends.md`
