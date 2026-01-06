@@ -9,7 +9,7 @@ This document will evolve as the project grows and the community contributes new
 > Establish the core structure and prepare the project for active development.
 
 - [ ] Set up initial repository structure  
-- [ ] Add README, CONTRIBUTING, and LICENSE  
+- [x] Add README, CONTRIBUTING, and LICENSE  
 - [ ] Define core architecture and module layout  
 - [ ] Create initial code skeleton  
 - [ ] Establish coding standards and testing framework  
